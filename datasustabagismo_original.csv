@@ -1,0 +1,64 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Região/UF de notificação e Ano Notificação
+Tabagismo: Sim
+Período:2007-2017
+"Região/UF de notificação";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"Total"
+"Região Norte";4;-;-;3;3;2;8;107;942;1243;1501;3813
+".. Rondônia";-;-;-;-;-;-;-;12;102;131;172;417
+".. Acre";-;-;-;-;-;-;-;-;53;91;117;261
+".. Amazonas";-;-;-;-;1;1;3;31;341;363;477;1217
+".. Roraima";-;-;-;-;-;-;-;3;32;31;51;117
+".. Pará";4;-;-;-;-;1;3;47;353;557;617;1582
+".. Amapá";-;-;-;3;2;-;1;7;18;35;34;100
+".. Tocantins";-;-;-;-;-;-;1;7;43;35;33;119
+"Região Nordeste";6;4;15;12;16;26;71;620;3111;4114;4624;12619
+".. Maranhão";-;-;3;-;1;1;3;41;254;373;362;1038
+".. Piauí";1;-;4;-;-;3;-;15;95;93;117;328
+".. Ceará";2;2;3;3;10;4;19;125;509;674;857;2208
+".. Rio Grande do Norte";-;-;-;1;-;-;1;31;263;253;334;883
+".. Paraíba";1;1;-;1;1;2;5;46;238;354;302;951
+".. Pernambuco";1;1;2;2;1;2;20;123;706;984;1220;3062
+".. Alagoas";-;-;-;3;1;4;4;31;174;269;245;731
+".. Sergipe";1;-;-;-;-;2;5;46;118;208;211;591
+".. Bahia";-;-;3;2;2;8;14;162;754;906;976;2827
+"Região Sudeste";59;56;42;40;175;1300;1749;3334;7449;8835;10011;33050
+".. Minas Gerais";1;3;5;4;6;21;58;254;928;1023;1102;3405
+".. Espírito Santo";-;-;-;-;1;2;5;60;343;345;361;1117
+".. Rio de Janeiro";3;3;9;20;27;28;57;373;2019;2696;3055;8290
+".. São Paulo";55;50;28;16;141;1249;1629;2647;4159;4771;5493;20238
+"Região Sul";8;14;5;23;25;25;129;899;3236;3412;3622;11398
+".. Paraná";3;4;1;16;15;15;68;288;668;701;723;2502
+".. Santa Catarina";1;1;1;1;2;1;21;212;624;654;696;2214
+".. Rio Grande do Sul";4;9;3;6;8;9;40;399;1944;2057;2203;6682
+"Região Centro-Oeste";1;1;-;2;1;11;26;149;657;835;1024;2707
+".. Mato Grosso do Sul";1;1;-;-;-;2;9;33;134;203;286;669
+".. Mato Grosso";-;-;-;-;1;7;9;60;193;264;298;832
+".. Goiás";-;-;-;2;-;1;4;36;275;289;367;974
+".. Distrito Federal";-;-;-;-;-;1;4;20;55;79;73;232
+"Total";78;75;62;80;220;1364;1983;5109;15395;18439;20782;63587
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse,
+ e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série
+ e todos os posteriores até o ano atual (para incluir casos notificados com atraso) e em “Seleções Disponíveis” assinale os anos do diagnóstico
+ (ex.: nº de casos 2007: selecione na linha a “UF de residência”, na Coluna a variável “Ano do diagnóstico”,
+ em Períodos disponíveis 2007 até o ano atual e em Seleções assinale “Ano do diagnóstico” de 2007).
+ Para cálculo da incidência selecione as categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito,
+ e o local de residência.
+ As variáveis “Beneficiário de programa de transferência de renda do governo” e “Imigrante” não contêm dados do Estado de São Paulo (SP).
+ Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do segundo semestre de 2016.
+ Em 2015, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade,
+ população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas e tabagismo),
+ beneficiário de programa de transferência de renda do governo, terapia antirretroviral durante o tratamento para a TB, teste molecular
+ rápido TB (TMR-TB) e teste de sensibilidade; e as categorias: pós-óbito na variável tipo de entrada e mudança de esquema, falência e
+ abandono primário na variável situação de encerramento. Por conta disso, não há informações para essas variáveis em anos anteriores.
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade
+ após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose,
+ acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Dados de 2001 a 2013 atualizados em 10/2017.
+ Dados de 2014 a 2017 atualizados em 05/2018, sujeitos à revisão.
+ 
